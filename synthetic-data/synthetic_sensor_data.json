@@ -1,0 +1,245 @@
+[
+  {
+    "timestamp": "2024-01-01 08:00:00",
+    "machine_id": "CNC_1",
+    "vibration": 1.2,
+    "temperature": 65.5,
+    "current": 12.3,
+    "pressure": 2.1,
+    "operating_hours": 1200
+  },
+  {
+    "timestamp": "2024-01-01 08:00:00",
+    "machine_id": "CNC_2",
+    "vibration": 0.8,
+    "temperature": 62.1,
+    "current": 11.8,
+    "pressure": 1.9,
+    "operating_hours": 980
+  },
+  {
+    "timestamp": "2024-01-01 08:00:00",
+    "machine_id": "CNC_3",
+    "vibration": 2.1,
+    "temperature": 78.3,
+    "current": 15.2,
+    "pressure": 2.8,
+    "operating_hours": 1450
+  },
+  {
+    "timestamp": "2024-01-01 08:00:00",
+    "machine_id": "CNC_4",
+    "vibration": 1.5,
+    "temperature": 68.7,
+    "current": 13.1,
+    "pressure": 2.3,
+    "operating_hours": 1100
+  },
+  {
+    "timestamp": "2024-01-01 08:00:00",
+    "machine_id": "CNC_5",
+    "vibration": 0.9,
+    "temperature": 61.2,
+    "current": 11.5,
+    "pressure": 1.8,
+    "operating_hours": 920
+  },
+  {
+    "timestamp": "2024-01-01 09:00:00",
+    "machine_id": "CNC_1",
+    "vibration": 1.3,
+    "temperature": 66.1,
+    "current": 12.4,
+    "pressure": 2.1,
+    "operating_hours": 1201
+  },
+  {
+    "timestamp": "2024-01-01 09:00:00",
+    "machine_id": "CNC_2",
+    "vibration": 0.9,
+    "temperature": 63.2,
+    "current": 11.9,
+    "pressure": 1.9,
+    "operating_hours": 981
+  },
+  {
+    "timestamp": "2024-01-01 09:00:00",
+    "machine_id": "CNC_3",
+    "vibration": 2.3,
+    "temperature": 79.8,
+    "current": 15.8,
+    "pressure": 2.9,
+    "operating_hours": 1451
+  },
+  {
+    "timestamp": "2024-01-01 09:00:00",
+    "machine_id": "CNC_4",
+    "vibration": 1.6,
+    "temperature": 69.1,
+    "current": 13.3,
+    "pressure": 2.4,
+    "operating_hours": 1101
+  },
+  {
+    "timestamp": "2024-01-01 09:00:00",
+    "machine_id": "CNC_5",
+    "vibration": 1,
+    "temperature": 62.5,
+    "current": 11.6,
+    "pressure": 1.8,
+    "operating_hours": 921
+  },
+  {
+    "timestamp": "2024-01-01 10:00:00",
+    "machine_id": "CNC_1",
+    "vibration": 1.4,
+    "temperature": 67.2,
+    "current": 12.6,
+    "pressure": 2.2,
+    "operating_hours": 1202
+  },
+  {
+    "timestamp": "2024-01-01 10:00:00",
+    "machine_id": "CNC_2",
+    "vibration": 1.1,
+    "temperature": 64.8,
+    "current": 12.1,
+    "pressure": 2,
+    "operating_hours": 982
+  },
+  {
+    "timestamp": "2024-01-01 10:00:00",
+    "machine_id": "CNC_3",
+    "vibration": 2.5,
+    "temperature": 81.2,
+    "current": 16.1,
+    "pressure": 3,
+    "operating_hours": 1452
+  },
+  {
+    "timestamp": "2024-01-01 10:00:00",
+    "machine_id": "CNC_4",
+    "vibration": 1.8,
+    "temperature": 70.3,
+    "current": 13.6,
+    "pressure": 2.5,
+    "operating_hours": 1102
+  },
+  {
+    "timestamp": "2024-01-01 10:00:00",
+    "machine_id": "CNC_5",
+    "vibration": 1.2,
+    "temperature": 63.9,
+    "current": 11.8,
+    "pressure": 1.9,
+    "operating_hours": 922
+  },
+  {
+    "timestamp": "2024-01-01 11:00:00",
+    "machine_id": "CNC_1",
+    "vibration": 1.5,
+    "temperature": 68.5,
+    "current": 12.8,
+    "pressure": 2.3,
+    "operating_hours": 1203
+  },
+  {
+    "timestamp": "2024-01-01 11:00:00",
+    "machine_id": "CNC_2",
+    "vibration": 1.3,
+    "temperature": 66.1,
+    "current": 12.3,
+    "pressure": 2.1,
+    "operating_hours": 983
+  },
+  {
+    "timestamp": "2024-01-01 11:00:00",
+    "machine_id": "CNC_3",
+    "vibration": 2.7,
+    "temperature": 82.8,
+    "current": 16.5,
+    "pressure": 3.1,
+    "operating_hours": 1453
+  },
+  {
+    "timestamp": "2024-01-01 11:00:00",
+    "machine_id": "CNC_4",
+    "vibration": 1.6,
+    "temperature": 69.1,
+    "current": 13.3,
+    "pressure": 2.4,
+    "operating_hours": 1101
+  },
+  {
+    "timestamp": "2024-01-01 11:00:00",
+    "machine_id": "CNC_5",
+    "vibration": 1.4,
+    "temperature": 65.2,
+    "current": 12,
+    "pressure": 2,
+    "operating_hours": 923
+  },
+  {
+    "timestamp": "2024-01-01 12:00:00",
+    "machine_id": "CNC_1",
+    "vibration": 1.6,
+    "temperature": 69.8,
+    "current": 13,
+    "pressure": 2.4,
+    "operating_hours": 1204
+  },
+  {
+    "timestamp": "2024-01-01 12:00:00",
+    "machine_id": "CNC_2",
+    "vibration": 1.5,
+    "temperature": 67.5,
+    "current": 12.5,
+    "pressure": 2.2,
+    "operating_hours": 984
+  },
+  {
+    "timestamp": "2024-01-01 12:00:00",
+    "machine_id": "CNC_3",
+    "vibration": 2.9,
+    "temperature": 84.1,
+    "current": 16.8,
+    "pressure": 3.2,
+    "operating_hours": 1454
+  },
+  {
+    "timestamp": "2024-01-01 12:00:00",
+    "machine_id": "CNC_4",
+    "vibration": 1.8,
+    "temperature": 70.3,
+    "current": 13.6,
+    "pressure": 2.5,
+    "operating_hours": 1102
+  },
+  {
+    "timestamp": "2024-01-01 12:00:00",
+    "machine_id": "CNC_5",
+    "vibration": 1.6,
+    "temperature": 66.8,
+    "current": 12.2,
+    "pressure": 2.1,
+    "operating_hours": 924
+  },
+  {
+    "timestamp": "2024-01-01 17:00:00",
+    "machine_id": "CNC_6",
+    "vibration": "",
+    "temperature": "",
+    "current": "",
+    "pressure": "",
+    "operating_hours": 1101
+  },
+  {
+    "timestamp": "2024-01-01 17:00:00",
+    "machine_id": "CNC_7",
+    "vibration": "",
+    "temperature": "",
+    "current": "",
+    "pressure": "",
+    "operating_hours": 1101
+  }
+]

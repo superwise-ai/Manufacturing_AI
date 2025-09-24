@@ -1,0 +1,17 @@
+streamlit==1.43.2
+pandas==2.2.2
+numpy==2.0.0
+plotly==5.20.0
+requests==2.32.0
+pydantic==2.5.3
+python-dotenv==1.0.1
+
+# Development and Testing Tools
+pytest==8.3.4
+flake8==7.1.1
+pytest-cov==6.0.0
+
+# FastAPI and Web Framework
+fastapi==0.115.0
+uvicorn==0.32.0
+httpx==0.28.1

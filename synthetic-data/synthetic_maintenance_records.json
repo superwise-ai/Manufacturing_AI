@@ -1,0 +1,51 @@
+[
+  {
+    "machine_id": "CNC_1",
+    "last_service_date": "2023-12-15",
+    "service_notes": "Regular maintenance - replaced filters",
+    "next_service_due": "2024-01-15",
+    "service_cost": 500
+  },
+  {
+    "machine_id": "CNC_2",
+    "last_service_date": "2023-12-20",
+    "service_notes": "Preventive maintenance - oil change",
+    "next_service_due": "2024-01-20",
+    "service_cost": 300
+  },
+  {
+    "machine_id": "CNC_3",
+    "last_service_date": "2023-12-10",
+    "service_notes": "Emergency repair - bearing replacement",
+    "next_service_due": "2024-01-10",
+    "service_cost": 1200
+  },
+  {
+    "machine_id": "CNC_4",
+    "last_service_date": "2023-12-25",
+    "service_notes": "Regular maintenance - calibration",
+    "next_service_due": "2024-01-25",
+    "service_cost": 400
+  },
+  {
+    "machine_id": "CNC_5",
+    "last_service_date": "2023-12-18",
+    "service_notes": "Preventive maintenance - belt replacement",
+    "next_service_due": "2024-01-18",
+    "service_cost": 250
+  },
+  {
+    "machine_id": "CNC_6",
+    "last_service_date": "2023-12-18",
+    "service_notes": "Failing machine",
+    "next_service_due": "2024-01-18",
+    "service_cost": 250
+  },
+  {
+    "machine_id": "CNC_7",
+    "last_service_date": "2023-12-18",
+    "service_notes": "Machine has irreversible wear",
+    "next_service_due": "2024-01-18",
+    "service_cost": 250
+  }
+]

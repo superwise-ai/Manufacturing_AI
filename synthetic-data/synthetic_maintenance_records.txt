@@ -1,0 +1,8 @@
+machine_id,last_service_date,service_notes,next_service_due,service_cost
+CNC_1,2023-12-15,Regular maintenance - replaced filters,2024-01-15,500
+CNC_2,2023-12-20,Preventive maintenance - oil change,2024-01-20,300
+CNC_3,2023-12-10,Emergency repair - bearing replacement,2024-01-10,1200
+CNC_4,2023-12-25,Regular maintenance - calibration,2024-01-25,400
+CNC_5,2023-12-18,Preventive maintenance - belt replacement,2024-01-18,250
+CNC_6,2023-12-18,Failing machine,2024-01-18,250
+CNC_7,2023-12-18,Machine has irreversible wear,2024-01-18,250
