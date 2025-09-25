@@ -8,7 +8,7 @@
 **Powered by SUPERWISE® — Leading Agentic Governance & Operations Solutions**
 
 [![Powered by SUPERWISE®](https://img.shields.io/badge/Powered%20by-SUPERWISE®-0052CC?style=for-the-badge&logo=superuser)](https://superwise.ai)
-[![AI Healthcare](https://img.shields.io/badge/AI%20Healthcare-Management-00A86B?style=for-the-badge&logo=medical)](https://superwise.ai)
+[![AI Manufacturing](https://img.shields.io/badge/AI%20Manufacturing-Management-00A86B?style=for-the-badge&logo=manufacturing)](https://superwise.ai)
 [![Enterprise Ready](https://img.shields.io/badge/Enterprise-Ready-gold?style=for-the-badge&logo=enterprise)](https://superwise.ai)
 
 </div>
