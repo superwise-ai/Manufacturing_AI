@@ -412,6 +412,7 @@ black app/ --check
 - **[User Guide](docs/USAGE.md)** - Step-by-step user walkthrough and features
 - **[Application Interface](http://localhost:8501)** - Interactive web application
 - **[Environment Setup](.env.example)** - Environment variables configuration template
+- **[Youtube Video](https://www.youtube.com/watch?v=9fYt_X5hz-c)** - Manufacturing AI Demo: Predictive Maintenance & Risk Assessment with SUPERWISE® Platform
 
 ### Documentation Structure
 - **Technical Docs:** Docker deployment, Superwise AI integration, and API specifications
