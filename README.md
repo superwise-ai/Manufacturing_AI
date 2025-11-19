@@ -17,6 +17,37 @@
 
 **Manufacturing AI** is an intelligent predictive maintenance platform that leverages artificial intelligence to optimize manufacturing operations, prevent equipment failures, and reduce maintenance costs through real-time monitoring and predictive analytics.
 
+The system uses synthetic machine sensor data — including timestamp, machine ID, vibration, temperature, current, pressure, and operating hours — along with sensor risk guides and maintenance records to simulate real-world industrial environments.
+
+The project uses simulated datasets containing **timestamp, machine ID, vibration, temperature, current, pressure, and operating hours**, along with **sensor risk guides** and **maintenance records**.  
+This data is stored as **Knowledge in Superwise AI**, where a configured **Superwise agent** performs continuous analysis and prediction based on three core tasks:
+
+1. **Data Analysis**
+   - Reviews maintenance history to identify overdue services or recurring issues.  
+   - Detects anomalies in sensor trends, such as:  
+     - Increasing vibration → possible motor or bearing wear.  
+     - Rising temperature → potential overheating.  
+     - Higher current draw → motor or load issues.  
+     - Abnormal pressure → hydraulic or pneumatic faults.  
+
+2. **Failure Risk Assessment**
+   - Classifies each machine’s health as:  
+     - **Low** — Normal condition, no issues detected.  
+     - **Medium** — Early warnings, maintenance required soon.  
+     - **High** — Critical anomalies, failure imminent.  
+
+3. **Remaining Useful Life (RUL) Prediction**
+   - Estimates **predicted days to failure** based on trends and severity.  
+   - Recommends **next maintenance date** to avoid unplanned downtime.  
+
+By combining historical maintenance records with sensor data, **Manufacturing_AI** helps companies move from **reactive repairs** to **predictive maintenance**, minimizing downtime and maintenance costs.
+
+### **Key Benefits**
+- Detects early machine failure signs through AI-based analysis.  
+- Helps maintenance teams prioritize critical equipment.  
+- Reduces unplanned downtime and maintenance expenses.  
+- Demonstrates industrial AI capabilities using synthetic datasets.  
+
 ## 🏢 **Ready for Business?**
 
 **Transform your business operations with Superwise AI**: [Get Started with Superwise](https://docs.superwise.ai/docs/introduction-to-superwise) - Enterprise-grade AI governance, risk & compliance solutions for manufacturing and other businesses.
